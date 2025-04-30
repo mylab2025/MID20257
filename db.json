@@ -7,16 +7,22 @@
         "MF": "STMicroelectronics"
       },
       "MID": "MID20257",
-      "MD": "STM32L152R8T6A part is 3V3 logic with LQFP64 package (64Pins). Max MCU Current = 100mA || Max. Tolarent Voltage for VDD/VSS = 4V & for IO Pins = VDD+4V;  Other Specs:  Ultra-low-power 32-bit MCU ARM®-based Cortex®-M3, 128KB Flash, 32KB SRAM, 4KB EEPROM, LCD, USB, ADC, DAC. DB Note: Location to be allocate & Reference Not available(Checked).",
-      "MT": "Electronic Comp.",
+      "MD": "STM32L152R8T6A part is 3V3 logic with LQFP64 package (64Pins). Max MCU Current = 100mA || Max. Tolarent Voltage for VDD/VSS = 4V \u0026 for IO Pins = VDD\u002B4V;  Other Specs:  Ultra-low-power 32-bit MCU ARM\u00AE-based Cortex\u00AE-M3, 128KB Flash, 32KB SRAM, 4KB EEPROM, LCD, USB, ADC, DAC. DB Note: Location to be allocate \u0026 Reference Not available(Checked).",
+      "MT": "Electronic Material",
       "MQNT": 5,
-      "MQATG": "#CLASS0",
+      "MQATG": "#CLASS_0",
       "ML": "",
-      "MDS": "https://docs.google.com/gview?url=https://raw.githubusercontent.com/mylab2025/MID20257/main/stm32l151c6_a-1851114 (1).pdf&embedded=true",
+      "MCost": 0,
+      "MDS": "https://docs.google.com/gview?url=https://raw.githubusercontent.com/mylab2025/MID20257/main/stm32l151c6_a-1851114 (1).pdf\u0026embedded=true",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
       "MR": "",
       "MaterialImages": [
-        "https://media-hosting.imagekit.io/7cb91c6b4d7d4e11/WhatsApp%20Image%202025-03-29%20at%203.17.13%20PM.jpeg?Expires=1837849675&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=SZsSQ4g9MzenLcZZcsQA6nWt9QBhxectGu7NVQQivLcYxFxWQhe2MIffBRi6La9W59CJUZG3-BdpJsVnd22hCB0Od1LYrihhtulEA5J3byMYPCKZdPvdbBTGEBK54fHJ9oaMGR~HDwkhVv0gG-3Kt9R5Krs9xAGeKIje6P3WpwW9ekHpcO8lM0Gpzuvo4QhFFrPkANgYAAqGpuCZ3xzuwX9sm7--GTpr6VO6mn-0KLZROCj8aQNUpRXf2l8QKsPIewyqDvy5pV5qZilF~zlHKmEs1cogIqWa8MtIYGEL8w49JiPpo1eQZNcskhMXNEjSFDA8Ya0N8F-GxXWRYgr1oA__",
-        "https://media-hosting.imagekit.io/8856aefd971a441e/WhatsApp%20Image%202025-03-29%20at%203.17.13%20PM%20(1).jpeg?Expires=1837849675&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=WJ7FuQUmkPKZUO9y2U864NMQYTnQaBrUHmnlVoMPY7rxQ0QdB7IVMcXDn3sL5NBod7N~Pfs2es3ss7KgI1-HibwbMvs-azequHCu2FudslPDmihkRbOqYd5qTpF8IXOP7V2OIBSwsYWbqFIBaEMyGM1KVHn5~mGKsic7-jJFDBKyS773IuV-cCAEgOYifBM2dt~~wMGE2Oi7Q1YvNyHbOouOIo8XDJU2GvfBzGUxs8EgZ4WknN4T0Rakl4BftHXxJIHzXWli5PRGq87~-XCWtPCXqJWIi-otFjbg0A82CXyrBUKqMp74mQws~-pT44eEM1TjKb~paqQ~MZEwj0W5IA__"
+        "https://media-hosting.imagekit.io/7cb91c6b4d7d4e11/WhatsApp%20Image%202025-03-29%20at%203.17.13%20PM.jpeg?Expires=1837849675\u0026Key-Pair-Id=K2ZIVPTIP2VGHC\u0026Signature=SZsSQ4g9MzenLcZZcsQA6nWt9QBhxectGu7NVQQivLcYxFxWQhe2MIffBRi6La9W59CJUZG3-BdpJsVnd22hCB0Od1LYrihhtulEA5J3byMYPCKZdPvdbBTGEBK54fHJ9oaMGR~HDwkhVv0gG-3Kt9R5Krs9xAGeKIje6P3WpwW9ekHpcO8lM0Gpzuvo4QhFFrPkANgYAAqGpuCZ3xzuwX9sm7--GTpr6VO6mn-0KLZROCj8aQNUpRXf2l8QKsPIewyqDvy5pV5qZilF~zlHKmEs1cogIqWa8MtIYGEL8w49JiPpo1eQZNcskhMXNEjSFDA8Ya0N8F-GxXWRYgr1oA__",
+        "https://media-hosting.imagekit.io/8856aefd971a441e/WhatsApp%20Image%202025-03-29%20at%203.17.13%20PM%20(1).jpeg?Expires=1837849675\u0026Key-Pair-Id=K2ZIVPTIP2VGHC\u0026Signature=WJ7FuQUmkPKZUO9y2U864NMQYTnQaBrUHmnlVoMPY7rxQ0QdB7IVMcXDn3sL5NBod7N~Pfs2es3ss7KgI1-HibwbMvs-azequHCu2FudslPDmihkRbOqYd5qTpF8IXOP7V2OIBSwsYWbqFIBaEMyGM1KVHn5~mGKsic7-jJFDBKyS773IuV-cCAEgOYifBM2dt~~wMGE2Oi7Q1YvNyHbOouOIo8XDJU2GvfBzGUxs8EgZ4WknN4T0Rakl4BftHXxJIHzXWli5PRGq87~-XCWtPCXqJWIi-otFjbg0A82CXyrBUKqMp74mQws~-pT44eEM1TjKb~paqQ~MZEwj0W5IA__"
       ]
     }
   ]
